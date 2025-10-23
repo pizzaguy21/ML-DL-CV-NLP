@@ -1,24 +1,20 @@
-# Data Besar dan Dataset (Penyebab utama push gagal)
+
 data/
 dataset/
 images/
 raw_data/
 
-# Model Terlatih (File .h5 yang ukurannya bisa GB)
 *.h5
 *.pkl
 *.pth
 *.onnx
 
-# Folder/File yang Dibuat Saat Pelatihan
 checkpoints/
 logs/
 tf_logs/
 tensorboard/
 
-# File Python yang dikompilasi
 __pycache__/
 *.pyc
 
-# File Jupyter Notebook Checkpoints
 .ipynb_checkpoints/
