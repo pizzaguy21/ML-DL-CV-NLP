@@ -1,0 +1,7 @@
+Pillow
+opencv-python
+argparse
+matplotlib
+numpy
+tensorflow
+fpdf
