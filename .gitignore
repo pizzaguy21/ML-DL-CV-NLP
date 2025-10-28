@@ -3,12 +3,12 @@ data/
 dataset/
 images/
 raw_data/
-
+venv/
 *.h5
 *.pkl
 *.pth
 *.onnx
-
+.DS_Store
 checkpoints/
 logs/
 tf_logs/
