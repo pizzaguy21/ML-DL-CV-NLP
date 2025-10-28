@@ -4,6 +4,7 @@ dataset/
 images/
 raw_data/
 venv/
+.env/
 *.h5
 *.pkl
 *.pth
